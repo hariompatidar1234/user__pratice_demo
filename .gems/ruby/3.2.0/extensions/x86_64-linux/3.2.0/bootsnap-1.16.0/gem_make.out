@@ -1,0 +1,18 @@
+current directory: /home/hp/user_demo/.gems/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+/usr/share/rvm/rubies/ruby-3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/hp/user_demo/.gems/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230809-31602-jn5o30 sitelibdir\=./.gem.20230809-31602-jn5o30 clean
+
+current directory: /home/hp/user_demo/.gems/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230809-31602-jn5o30 sitelibdir\=./.gem.20230809-31602-jn5o30
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/hp/user_demo/.gems/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230809-31602-jn5o30 sitelibdir\=./.gem.20230809-31602-jn5o30 install
+/usr/bin/install -m 0755 bootsnap.so ./.gem.20230809-31602-jn5o30/bootsnap
+
+current directory: /home/hp/user_demo/.gems/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230809-31602-jn5o30 sitelibdir\=./.gem.20230809-31602-jn5o30 clean
